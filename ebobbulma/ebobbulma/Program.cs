@@ -15,7 +15,8 @@ namespace ebobbulma
             Console.WriteLine("2. sayıyı giriniz");
             var sayi2 = int.Parse(Console.ReadLine());
             int ilk_sayi1 = sayi1, ilk_sayi2=sayi2;
-
+            sayi1 = (sayi1 < 0) ? -sayi1 : sayi1;
+            sayi2 = (sayi2 < 0) ? -sayi2 : sayi2;
             while (sayi1!=sayi2)
             {
                 if (sayi1>sayi2)
