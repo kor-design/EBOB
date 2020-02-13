@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\EBOB\ebobbulma\ebobbulma\bin\Debug\ebobbulma.exe.config
+C:\Users\Windows10\Documents\GitHub\EBOB\ebobbulma\ebobbulma\bin\Debug\ebobbulma.exe
+C:\Users\Windows10\Documents\GitHub\EBOB\ebobbulma\ebobbulma\bin\Debug\ebobbulma.pdb
+C:\Users\Windows10\Documents\GitHub\EBOB\ebobbulma\ebobbulma\obj\Debug\ebobbulma.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\EBOB\ebobbulma\ebobbulma\obj\Debug\ebobbulma.exe
+C:\Users\Windows10\Documents\GitHub\EBOB\ebobbulma\ebobbulma\obj\Debug\ebobbulma.pdb
